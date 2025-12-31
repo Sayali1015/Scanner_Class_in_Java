@@ -14,8 +14,6 @@ public class TotalBill {
 		System.out.println("Enter the Quantity: ");
 		int totalQuan = scan.nextInt();
 		
-		
-		
 		int totalbill = prize*totalQuan;
 		
 		System.out.println("===========================================================");
